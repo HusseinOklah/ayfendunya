@@ -1,0 +1,16 @@
+{
+  "Home": {
+    "title": "Home Page",
+    "routingTo": "/products",
+    "Categories": []
+  },
+  "Products": {
+    "title": "Products",
+    "routingTo": "/products",
+    "Categories": [
+      "Category 1",
+      "Category 2",
+      "Category 3"
+    ]
+  }
+}
